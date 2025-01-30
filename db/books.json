@@ -1,0 +1,37 @@
+[
+    {
+        "isbn": "978-3-16-148410-0",
+        "title": "To Kill a Mockingbird",
+        "author": "Harper Lee",
+        "price": 20,
+        "genre": "Fiction"
+    },
+    {
+        "isbn": "978-3-16-148410-1",
+        "title": "1984",
+        "author": "George Orwell",
+        "price": 10,
+        "genre": "Dystopian"
+    },
+    {
+        "isbn": "978-3-16-148410-2",
+        "title": "The Great Gatsby",
+        "author": "F. Scott Fitzgerald",
+        "price": 15,
+        "genre": "Fiction"
+    },
+    {
+        "isbn": "978-3-16-148410-3",
+        "title": "The Catcher in the Rye",
+        "author": "J.D. Salinger",
+        "price": 5,
+        "genre": "Fiction"
+    },
+    {
+        "isbn": "978-3-16-148410-4",
+        "title": "Moby-Dick",
+        "author": "Herman Melville",
+        "price": 40,
+        "genre": "Adventure"
+    }
+]
